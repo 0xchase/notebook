@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "c54e2969e57c91da",
+    "type": "split",
+    "children": [
+      {
+        "id": "4735b468672991c9",
+        "type": "tabs",
+        "dimension": 62.277814351547065,
+        "children": [
+          {
+            "id": "495594e9a1bf22ec",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "7b8192b3a198b1db",
+        "type": "tabs",
+        "dimension": 37.72218564845293,
+        "children": [
+          {
+            "id": "34bd5b4f0a66c314",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f7bacf8dd971babd",
+    "type": "split",
+    "children": [
+      {
+        "id": "6707d0d1b6656284",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5cce4be916a2820d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "57036122ede787ef",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "97511df1a460b887",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "10876c06c2dde0d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6b66d68459c69e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df5e527162784f38",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e126eb8be9b98e79",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "77ceb5bc8a4dc922",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a436ba2e06cb8923",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "495594e9a1bf22ec",
+  "lastOpenFiles": [
+    "Welcome.md",
+    "ReadMe.md",
+    "README.md",
+    "1. Cybersecurity/Binary Exploitation.md",
+    "2. Machine Learning/Backpropogation.md",
+    "3. Audio Programming/Reverb.md",
+    "3. Audio Programming/Distortion.md",
+    "3. Audio Programming/Delay.md",
+    "3. Audio Programming/Digital Signal Processing.md",
+    "2. Machine Learning/Large Language Models.md",
+    "2. Machine Learning/Diffusion Models.md",
+    "1. Cybersecurity/Cryptography.md",
+    "1. Cybersecurity/Web Hacking.md",
+    "1. Cybersecurity/Reverse Engineering.md",
+    "1. Cybersecurity/Internet Of Things.md",
+    "1. Cybersecurity/Unix Internals.md",
+    "1. Cybersecurity/Windows Internals.md",
+    "2. Machine Learning/Transformers.md",
+    "2. Machine Learning/Variational Auto-Encoders.md",
+    "2. Machine Learning/Statistical Learning.md",
+    "5. Philosophy/Laws of Nature.md",
+    "5. Philosophy/Causation.md",
+    "5. Philosophy/Physics/Temporal Asymmetry.md",
+    "5. Philosophy/Physics/Space and Time.md",
+    "5. Philosophy/Physics/Interpretations of Quantum Mechanics.md",
+    "5. Philosophy/Mind.md",
+    "5. Philosophy/Physics",
+    "3. Audio Programming",
+    "5. Philosophy",
+    "4. Physics",
+    "2. Machine Learning",
+    "1. Cybersecurity"
+  ]
+}
